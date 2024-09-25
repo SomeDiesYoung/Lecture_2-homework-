@@ -1,0 +1,14 @@
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\Lecture_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\Lecture_2.AssemblyInfoInputs.cache
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\Lecture_2.AssemblyInfo.cs
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\Lecture_2.csproj.CoreCompileInputs.cache
+G:\C#projects\UNIVERSITY\Lecture_2\bin\Debug\net6.0\Lecture_2.exe
+G:\C#projects\UNIVERSITY\Lecture_2\bin\Debug\net6.0\Lecture_2.deps.json
+G:\C#projects\UNIVERSITY\Lecture_2\bin\Debug\net6.0\Lecture_2.runtimeconfig.json
+G:\C#projects\UNIVERSITY\Lecture_2\bin\Debug\net6.0\Lecture_2.dll
+G:\C#projects\UNIVERSITY\Lecture_2\bin\Debug\net6.0\Lecture_2.pdb
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\Lecture_2.dll
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\refint\Lecture_2.dll
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\Lecture_2.pdb
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\Lecture_2.genruntimeconfig.cache
+G:\C#projects\UNIVERSITY\Lecture_2\obj\Debug\net6.0\ref\Lecture_2.dll
